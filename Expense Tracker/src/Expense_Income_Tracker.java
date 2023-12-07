@@ -8,7 +8,7 @@ import expense_income_entry.ExpensesIncomesTracker;
 
 /**
  *
- * @author  Pavni Reddy
+ * @author  Harapriya Sasmal
  */
 public class Expense_Income_Tracker {
 
