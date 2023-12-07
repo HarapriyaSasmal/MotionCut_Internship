@@ -8,7 +8,7 @@ import java.awt.*;
 
 /**
  *
- * @author Pavni Reddy
+ * @author Harapriya Sasmal
  */
 // The ExpensesIncomesTracker class extends JFrame to create the main application window.
 public class ExpensesIncomesTracker extends JFrame {
