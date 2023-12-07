@@ -6,7 +6,7 @@ package expense_income_entry;
 
 /**
  *
- * @author Pavni Reddy
+ * @author Harapriya Sasmal
  */
 
    /*
